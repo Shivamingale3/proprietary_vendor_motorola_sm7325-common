@@ -6,7 +6,6 @@ soong_namespace {
     imports: [
         "device/motorola/sm7325-common",
         "hardware/motorola",
-        "hardware/qcom/display",
         "hardware/qcom/wlan/qcwcn",
     ],
 }
