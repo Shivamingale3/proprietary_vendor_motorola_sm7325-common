@@ -7,6 +7,15 @@ soong_namespace {
         "device/motorola/sm7325-common",
         "hardware/motorola",
         "hardware/qcom/wlan/qcwcn",
+        "vendor/qcom/common/vendor/display",
+        "vendor/qcom/common/vendor/display/5.4",
+        "vendor/qcom/common/vendor/media/5.4",
+        "vendor/qcom/common/vendor/perf",
+        "vendor/qcom/common/vendor/wlan-legacy",
+        "vendor/qcom/common/system/display",
+        "vendor/qcom/common/system/av",
+        "vendor/qcom/common/system/bt",
+        "vendor/qcom/common/system/perf",
     ],
 }
 
