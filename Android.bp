@@ -4543,6 +4543,8 @@ cc_prebuilt_library_shared {
                 "libsensorndkbridge",
                 "libaudioroute",
                 "libgui_vendor",
+                // AOSPA libgui_vendor is a wrapper; the symbols live in libgui
+                "libgui",
                 "libc++",
                 "libc",
                 "libm",
